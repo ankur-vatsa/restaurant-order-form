@@ -25,7 +25,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#deployment">Deployment</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ul>
 
   <hr>
@@ -109,10 +108,6 @@
   <p>Contributions are welcome! Feel free to open issues or pull requests.</p>
 
   <hr>
-
-  <h2>License</h2>
-
-  <p><a href="LICENSE">MIT License</a></p>
 
 </body>
 
