@@ -11,7 +11,7 @@
 
   <h1>Restaurant Order Form 🍔📸</h1>
 
-  <img src="link_to_your_project_image_or_screenshot.png" alt="Project Image" />
+  <img src="https://github.com/ankur-vatsa/restaurant-order-form/blob/main/image_2023-11-29_22-43-20.jpg" alt="Project Image" />
 
   <hr>
 
