@@ -1,0 +1,23 @@
+/* OrderForm.css */
+
+.order-form-container {
+  text-align: center;
+  margin: 20px auto; /* Added margin from the top */
+  padding: 10px; /* Adjusted padding */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 400px; /* Adjusted max-width to fit content */
+  margin-top: 20px; /* Additional margin from the top */
+}
+
+.webcam-container,
+.file-upload-container,
+.order-id-container,
+.upload-button-container {
+  margin-top: 10px; /* Adjusted margin-top for individual sections */
+}
+
+.image-preview img {
+  max-width: 100%; /* Set maximum width to 100% for responsive images */
+  height: auto; /* Maintain aspect ratio */
+}
